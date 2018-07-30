@@ -55,3 +55,8 @@ a {
     font-size: 30px;
     padding-left: 10px;
 }
+
+blockquote {
+    font-style: italic;
+    margin-top: 15px;
+}
