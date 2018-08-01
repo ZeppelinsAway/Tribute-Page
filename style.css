@@ -8,17 +8,18 @@
 body {
     margin: 15px;
     padding: 15px;
-    background-color: #2ecc71;
+    background-color: #55efc4;
     border: 2px solid;
     border-radius: 5px;
 }
 #main {
-    background-color: #95a5a6;
+    background-color: #b2bec3;
     border-radius: 5px;
 }
 #title {
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-top: 15px;
 }
 #image {
     margin: 15px 0px 0px 0px;
@@ -49,14 +50,18 @@ li{
 footer {
     margin: 30px;
     padding: 15px;
+    font-weight: 700;
 }
-
-a {
-    font-size: 30px;
-    padding-left: 10px;
-}
-
 blockquote {
     font-style: italic;
     margin-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
+
+a:hover {
+    color: white;
 }
